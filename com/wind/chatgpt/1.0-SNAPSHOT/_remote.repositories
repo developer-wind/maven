@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 02 10:11:38 CST 2023
+chatgpt-1.0-SNAPSHOT.jar>wind-maven-repository=
+chatgpt-1.0-SNAPSHOT.jar>=
+chatgpt-1.0-SNAPSHOT.pom>wind-maven-repository=
+chatgpt-1.0-SNAPSHOT.pom>=
